@@ -1,0 +1,21 @@
+From 34bfa89e3f899ffa428fe23a430c741a80aae56b Mon Sep 17 00:00:00 2001
+From: horlarhyinka <danijufarouq2003@gmail.com>
+Date: Thu, 19 Jan 2023 08:39:36 +0100
+Subject: [PATCH] #
+
+---
+ .env | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/.env b/.env
+index 7d910f1..05817d4 100644
+--- a/.env
++++ b/.env
+@@ -1 +1 @@
+-SKIP_PREFLIGHT_CHECK=true
+\ No newline at end of file
++# SKIP_PREFLIGHT_CHECK=true
+\ No newline at end of file
+-- 
+2.36.1.windows.1
+
